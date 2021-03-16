@@ -1,6 +1,5 @@
 # Streamlit-Webapps
-NLP WebApps Streamlit
-#### Summarization App
+## Summarization App
 A Web App for generating summaries from text using extractive summary (LexRank and TextRank)
 
 + Packages Used
@@ -22,7 +21,7 @@ pip install
 	
  ------------------------------------------------------------------------------------------------
  
- ### NLP app with Streamlit & Spacy
+## NLP app with Streamlit & Spacy
 A Simple NLP app for text analysis with drag and drop for files.
 
 
@@ -55,7 +54,7 @@ A Simple NLP app for text analysis with drag and drop for files.
 
 --------------------------------------------------------------------------------------------
 
-#### MetaData Extraction App
+## MetaData Extraction App
 A Data App for extracting metadata from images,audio files and pdf and docx.
 
 + Packages
